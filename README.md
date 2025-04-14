@@ -49,4 +49,14 @@ Component | Details
 
 **Technology Feasibility**  
 * Smart meter integration is supported through APIs from companies like **Flume** and **Phyn**. In areas lacking smart infrastructure, **manual logging** can serve as a viable backup method.  
-
+  
+**Initial Problem Insights & Next Steps**  
+Our findings clearly highlight a gap in communication and behavioral response during emergency pipe repairs. While residents are often aware of the water restrictions, they lack real-time visibility into their own usage and have no clear guidance on how to respond. This leads to excessive consumption, delays in repair efficiency, and strain on municipal infrastructure.  
+The research has helped us validate our initial hypothesis that providing real-time usage data, personalized alerts, and clear conservation goals can significantly improve participation and water-saving behavior in the community.  
+  
+**Transition to Next Phase**  
+We will convert these insights into a specific set of technical and functional requirements in the following stage of our project.  This will entail specifying the features that the app must have, how it will function, and how we'll make sure it runs dependably in different situations.  
+The second deliverable will concentrate on defining:  
+* What the application must accomplish (functional requirements),  
+* The way it should to function (system expectations),  
+* The reasons each element supports the results of our research.  
