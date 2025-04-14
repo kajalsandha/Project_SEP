@@ -60,3 +60,10 @@ The second deliverable will concentrate on defining:
 * What the application must accomplish (functional requirements),  
 * The way it should to function (system expectations),  
 * The reasons each element supports the results of our research.  
+  
+**Phase 2:-** Functional & System Requirements  
+**Introduction**  
+This section deconstructs the requirements required to design and implement the WaterSaver application, based on the research findings and problem insights presented in Deliverable 1.  User needs, technical limitations, and our objective of encouraging prudent water use during municipal pipe repairs all influence these specifications.
+
+ We have made sure that every requirement follows best practices for gathering software requirements and complies with the SMART principle, which stands for Specific, Measurable, Achievable, Realistic, and Time-bound.  
+
