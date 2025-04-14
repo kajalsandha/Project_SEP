@@ -33,20 +33,20 @@ Component | Details
 **Supporting Research & Evidence**
 
 **Municipal Case Studies**  
-**Toronto in 2023:** In a number of neighborhoods, water restrictions failed because usage was not visible. Even after several warnings, the city reported excessive consumption.  
+* **Toronto in 2023:** In a number of neighborhoods, water restrictions failed because usage was not visible. Even after several warnings, the city reported excessive consumption.  
 *Source:* Annual Report of the City of Toronto Waterworks Department  
 
 **Behavioral Science Evidence**  
-According to a WaterSmart Software research from 2022, households who received app-based feedback from smart meters used **20%** less water.  
+* According to a WaterSmart Software research from 2022, households who received app-based feedback from smart meters used **20%** less water.  
 *Source:* WaterSmart Research Lab  
 
 **Global Benchmark – Cape Town Water Crisis (2018)**  
-A global benchmark in emergency water management. Real-time objectives, smartphone notifications, and digital dashboards helped the city escape **"Day Zero."**  
+* A global benchmark in emergency water management. Real-time objectives, smartphone notifications, and digital dashboards helped the city escape **"Day Zero."**  
 *Source:* Harvard Kennedy School Case Study (2021)  
 
 **Resident Survey**  
-According to a survey of **100** households, **72%** said they would use a conservation app if it displayed real-time usage data and provided alerts. Many respondents indicated that existing communication channels, such as news and email, were **inadequate** during water restrictions.  
+* According to a survey of **100** households, **72%** said they would use a conservation app if it displayed real-time usage data and provided alerts. Many respondents indicated that existing communication channels, such as news and email, were **inadequate** during water restrictions.  
 
 **Technology Feasibility**  
-Smart meter integration is supported through APIs from companies like **Flume** and **Phyn**. In areas lacking smart infrastructure, **manual logging** can serve as a viable backup method.  
+* Smart meter integration is supported through APIs from companies like **Flume** and **Phyn**. In areas lacking smart infrastructure, **manual logging** can serve as a viable backup method.  
 
