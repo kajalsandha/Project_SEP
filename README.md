@@ -21,7 +21,7 @@ Our main problem is that residents do not have access to timely, actionable feed
   
 **Problem Breakdown**  
   
-**Component | Details**  
+Component | Details  
 --- | ---  
 **Root Cause** | Lack of accessible, real-time water usage data and clear guidance during emergency restriction periods.  
 **Observed Effects** | - Low compliance with conservation efforts  <br> - Prolonged repair operations  <br> - Frustrated stakeholders  <br> - Increased water waste  
