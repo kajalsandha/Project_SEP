@@ -19,3 +19,13 @@ Our main problem is that residents do not have access to timely, actionable feed
   
  Cities dealing with deteriorating infrastructure, rising water demands, and stress from the environment make this issue even more pressing.  
   
+**Problem Breakdown**  
+  
+**Component | Details**  
+--- | ---  
+**Root Cause** | Lack of accessible, real-time water usage data and clear guidance during emergency restriction periods.  
+**Observed Effects** | - Low compliance with conservation efforts  <br> - Prolonged repair operations  <br> - Frustrated stakeholders  <br> - Increased water waste  
+**Hypothesis** | If residents receive personalized water usage feedback and targeted tips through a mobile app, water consumption during emergencies will decrease significantly.  
+**Proposed Solution** | **Build WaterSaver**, a mobile app that provides:  <br> - Real-time water usage tracking  <br> - Alerts for restrictions or overuse  <br> - Personalized water-saving tips  <br> - A community dashboard to promote shared progress  
+**Justification** | Research shows that behavioral nudges and real-time feedback (e.g., *Opower* for electricity) can significantly change user behavior. During the *Cape Town water crisis*, public dashboards and goal-setting helped reduce consumption by over 25%. Mobile apps offer wide reach and usability, making them an ideal solution for urban residents.  
+**Expected Outcome** | - Increased public awareness and action  <br> - Faster repair timelines  <br> - Reduced water usage  <br> - Higher resident engagement and municipal trust  
