@@ -4,10 +4,7 @@
   
 **Phase 1:-** Understanding the Problem, Exploring Causes, and Validating a Solution  
 **Project Overview**  
- The lack of real-time feedback and communication during emergency water pipe repairs is a major problem that urban
- populations experience, and our solution, WaterSaver, aims to solve it. 
-Residents are frequently told to save water at such occasions. 
-But in the absence of frequent updates or real-time consumption statistics, many users either disregard conservation
- requests or don't know how to properly modify their usage. 
-Longer maintenance times, needless water waste, and decreased citizen-municipality cooperation are the outcomes of this.  
-
+ The lack of real-time feedback and communication during emergency water pipe repairs is a major problem that urban populations experience, and our solution, WaterSaver, aims to solve it. Residents are frequently told to save water at such occasions. But in the absence of frequent updates or real-time consumption statistics, many users either disregard conservation requests or don't know how to properly modify their usage. Longer maintenance times, needless water waste, and decreased citizen-municipality cooperation are the outcomes of this.  
+  
+**Problem Statement**  
+Our main problem is that residents do not have access to timely, actionable feedback during emergency water conservation periods.  Nowadays, a lot of municipalities rely on passive communication techniques like email or public announcements, which are frequently disregarded and delayed.  By providing homeowners with real-time water usage data, alarms, and customized conservation tips, our app seeks to change this.  
