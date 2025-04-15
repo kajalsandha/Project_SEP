@@ -96,14 +96,14 @@ This section deconstructs the requirements required to design and implement the 
 **Update & Patch Management** | The app should support easy and regular updates to improve functionality, add new features, and address any security vulnerabilities promptly.  
   
   
-**Design Principles & Considerations**
+**Design Principles & Considerations**  
 We are applying the following design principles to ensure the app’s usability and success, aligning with the insights gained from Phase 1:  
-**Simplicity**  
+* **Simplicity**  
 Research shows that clear, simple interfaces drive better user interaction. We are focusing on an intuitive design that minimizes cognitive load.  
-**Feedback**  
+* **Feedback**  
 Residents tend to ignore ambiguous notifications. The app will deliver clear, actionable feedback on usage, fostering better decision-making.  
-**Accessibility**  
+* **Accessibility**  
 Based on feedback from various studies, our app will be designed with accessibility in mind, ensuring it can be used by people with visual impairments.  
-**Fail-Safe Defaults**  
+* **Fail-Safe Defaults**  
 Given the network issues identified in Phase 1, the app will include fail-safe defaults to ensure continued operation even when data is unavailable temporarily.  
   
