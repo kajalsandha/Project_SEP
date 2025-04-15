@@ -1,9 +1,9 @@
 
-**Member Name:-** Kajal, Robinjit Kaur  
-**Student ID:-** 8972108, 8867197  
+**Member's Name:-** Kajal, Robinjit Kaur  
+**Student IDs:-** 8972108, 8867197  
 **Project Title:-** WaterSaver – Helping Residents Conserve Water During Emergency Pipe Repairs  
   
-**Phase 1:-** Understanding the Problem, Exploring Causes, and Validating a Solution  
+**Phase 1:- Understanding the Problem, Exploring Causes, and Validating a Solution**  
 **Project Overview**  
  The lack of real-time feedback and communication during emergency water pipe repairs is a major problem that urban populations experience, and our solution, WaterSaver, aims to solve it. Residents are frequently told to save water at such occasions. But in the absence of frequent updates or real-time consumption statistics, many users either disregard conservation requests or don't know how to properly modify their usage. Longer maintenance times, needless water waste, and decreased citizen-municipality cooperation are the outcomes of this.  
   
@@ -61,11 +61,10 @@ The second deliverable will concentrate on defining:
 * The way it should to function (system expectations),  
 * The reasons each element supports the results of our research.  
   
-**Phase 2:-** Functional & System Requirements  
+**Phase 2:- Functional & System Requirements**  
 **Introduction**  
 This section deconstructs the requirements required to design and implement the WaterSaver application, based on the research findings and problem insights presented in Deliverable 1.  User needs, technical limitations, and our objective of encouraging prudent water use during municipal pipe repairs all influence these specifications.
-
- We have made sure that every requirement follows best practices for gathering software requirements and complies with the SMART principle, which stands for Specific, Measurable, Achievable, Realistic, and Time-bound.  
+We have made sure that every requirement follows best practices for gathering software requirements and complies with the SMART principle, which stands for Specific, Measurable, Achievable, Realistic, and Time-bound.  
   
   
 **Functional Requirements (What the App Will Do)**  
