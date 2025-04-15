@@ -129,3 +129,12 @@ The tasks for this feature include setting up geo-location based emergency alert
 * **Customized Conservation Tips:**  
 This feature involves creating the logic that provides personalized water-saving tips based on the user’s consumption data. Tasks include developing both the back-end engine and front-end display for these tips.  
   
+**System Requirements Breakdown:**  
+* **Scalability:**  
+Tasks related to scalability will ensure the app can handle large user traffic during high-demand periods (e.g., municipal water repair events). These tasks will focus on load balancing and performance testing.  
+* **Data Privacy & Security:**  
+Security tasks will ensure that the app complies with data protection regulations. This includes tasks to implement secure data storage, encryption of sensitive data, and setting up user authentication and authorization mechanisms.  
+* **API Integration:**  
+Tasks in this category focus on integrating external APIs (e.g., smart meter data, conservation tips), ensuring the data is properly fetched, and implementing error handling for any integration issues.  
+* **Platform Compatibility:**  
+Tasks will ensure that the app works on both Android and iOS platforms. This includes making the app responsive, testing across multiple devices, and ensuring proper functionality on both operating systems.  
