@@ -114,3 +114,6 @@ The next stage is to convert the functional and system requirements into workabl
 **Introduction:**  
 The high-level requirements acquired in Phases 1 (research and problem description) and 2 (functional and system requirements) are transferred to the actual implementation phase in Phase 3.  To guarantee efficient project execution, this entails dividing the requirements into manageable tasks, prioritizing them, and structuring them into manageable chunks.  This phase's activities will direct the creation and implementation of the WaterSaver app, guaranteeing that all features and functionalities complement the project's goals.  
   
+**Goal:**  
+This phase's objective is to transform the functional and system requirements established in Phase 2 into manageable tasks that will direct the WaterSaver app's development.  Each task should be divided into small phases, appropriately assigned, and planned for timely completion.  By doing this, we guarantee that the project is created in accordance with best practices, stays within scope, and stays on course.  
+  
