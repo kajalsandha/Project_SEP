@@ -66,4 +66,18 @@ The second deliverable will concentrate on defining:
 This section deconstructs the requirements required to design and implement the WaterSaver application, based on the research findings and problem insights presented in Deliverable 1.  User needs, technical limitations, and our objective of encouraging prudent water use during municipal pipe repairs all influence these specifications.
 
  We have made sure that every requirement follows best practices for gathering software requirements and complies with the SMART principle, which stands for Specific, Measurable, Achievable, Realistic, and Time-bound.  
+  
+  
+**Functional Requirements (What the App Will Do)**  
+  
+**Feature** | **Description**  
+--- | ---
+**User Registration & Profiles** | Residents can register and create profiles tied to their household or address, ensuring personalized tracking and notifications.  
+**Real-Time Usage Monitoring** | Users can view current water usage through integration with smart meter data or by manually entering consumption details.  
+**Emergency Alerts** | Location-specific notifications during water repair events or restriction periods to guide user actions in real-time.  
+**Customized Conservation Tips** | Personalized daily tips to help users reduce water usage based on their unique consumption patterns, restrictions, and household type.  
+**Community Progress Dashboard** | Displays city-wide or neighborhood water conservation achievements, encouraging friendly competition and collective action.  
+**Manual Logging Option** | For households without smart meters, allowing them to manually log their water consumption, ensuring inclusivity in the app's features.  
+**Admin Dashboard for Municipalities** | Enables city officials to update conservation zones, send alerts to residents, and track overall usage trends to optimize resource management.  
+**Push Notifications & Reminders** | Sends periodic reminders or alerts to encourage users to take daily water-saving actions or comply with newly imposed water restrictions.  
 
