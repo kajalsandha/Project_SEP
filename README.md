@@ -110,3 +110,7 @@ Given the network issues identified in Phase 1, the app will include fail-safe d
 **Transition to Phase 3:**  
 The next stage is to convert the functional and system requirements into workable development tasks after a clear and well-supported set has been created.  Phase 3 will concentrate on organizing the project schedule, allocating priority, dividing each need into digestible components, and estimating effort.  This guarantees that every element of the WaterSaver program is monitored, effectively implemented, and in line with both user requirements and our overall objectives.  
   
+**Phase 3: Task Breakdown & Priorities**  
+**Introduction:**  
+The high-level requirements acquired in Phases 1 (research and problem description) and 2 (functional and system requirements) are transferred to the actual implementation phase in Phase 3.  To guarantee efficient project execution, this entails dividing the requirements into manageable tasks, prioritizing them, and structuring them into manageable chunks.  This phase's activities will direct the creation and implementation of the WaterSaver app, guaranteeing that all features and functionalities complement the project's goals.  
+  
