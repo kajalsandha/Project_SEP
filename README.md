@@ -120,12 +120,12 @@ This phase's objective is to transform the functional and system requirements es
 The Phase 2 criteria have been categorized into system requirements and functional characteristics.  Following that, these are further divided into particular jobs that will be completed during the development phase.  The jobs are arranged according to the characteristics they provide for clarity and administration simplicity.  
   
 **Functional Requirements Breakdown:**  
-**User Registration & Profiles:**  
+* **User Registration & Profiles:**  
 This involves tasks related to developing the registration process, creating user profiles, and ensuring that users can log in securely. Each task focuses on the front-end UI components and the back-end API integration for data storage and user management.  
-**Real-Time Usage Monitoring:**  
+* **Real-Time Usage Monitoring:**  
 Tasks for this feature focus on integrating the smart meter data API, designing the user interface for displaying real-time water usage, and ensuring seamless interaction between the back-end and front-end components.  
-**Emergency Alerts:**  
+* **Emergency Alerts:**  
 The tasks for this feature include setting up geo-location based emergency alerts, designing the user interface for notifications, and implementing the back-end logic for sending alerts to users.  
-**Customized Conservation Tips:**  
+* **Customized Conservation Tips:**  
 This feature involves creating the logic that provides personalized water-saving tips based on the user’s consumption data. Tasks include developing both the back-end engine and front-end display for these tips.  
   
