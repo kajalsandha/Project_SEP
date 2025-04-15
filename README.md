@@ -116,3 +116,6 @@ The high-level requirements acquired in Phases 1 (research and problem descripti
 **Goal:**  
 This phase's objective is to transform the functional and system requirements established in Phase 2 into manageable tasks that will direct the WaterSaver app's development.  Each task should be divided into small phases, appropriately assigned, and planned for timely completion.  By doing this, we guarantee that the project is created in accordance with best practices, stays within scope, and stays on course.  
   
+**Task Breakdown:**  
+The Phase 2 criteria have been categorized into system requirements and functional characteristics.  Following that, these are further divided into particular jobs that will be completed during the development phase.  The jobs are arranged according to the characteristics they provide for clarity and administration simplicity.  
+
