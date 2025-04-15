@@ -80,4 +80,18 @@ This section deconstructs the requirements required to design and implement the 
 **Manual Logging Option** | For households without smart meters, allowing them to manually log their water consumption, ensuring inclusivity in the app's features.  
 **Admin Dashboard for Municipalities** | Enables city officials to update conservation zones, send alerts to residents, and track overall usage trends to optimize resource management.  
 **Push Notifications & Reminders** | Sends periodic reminders or alerts to encourage users to take daily water-saving actions or comply with newly imposed water restrictions.  
+  
+  
+**System Requirements (How the App Will Perform)**  
+  
+**System Requirement** | **Description**  
+--- | ---
+**Scalability** | The app must support high traffic during widespread emergencies, ensuring it can handle spikes in user activity without performance degradation.  
+**Data Privacy & Security** | The app must comply with data protection regulations, ensuring secure storage of user profiles, consumption data, and personal information.  
+**API Integration** | The app should seamlessly integrate with external APIs (e.g., Flume, Phyn, municipal smart meter systems) to access real-time water usage data.  
+**Platform Compatibility** | The app will be available for both Android and iOS platforms, ensuring accessibility on a wide range of devices, including low-end smartphones.  
+**Offline Mode** | Offers functionality even when users are offline, allowing them to manually log their water usage and receive essential conservation tips.  
+**User Accessibility** | The app will be designed with accessibility in mind, supporting multiple languages, large text options, and simple navigation for users with visual impairments or other disabilities.  
+**Reliability** | The system must ensure 99.9% uptime during emergencies, with robust backend architecture to handle critical water conservation events efficiently.  
+**Update & Patch Management** | The app should support easy and regular updates to improve functionality, add new features, and address any security vulnerabilities promptly.  
 
